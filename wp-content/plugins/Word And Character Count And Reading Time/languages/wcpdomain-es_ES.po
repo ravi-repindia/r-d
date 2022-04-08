@@ -1,0 +1,40 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Test Plugin\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-10 14:00+0000\n"
+"PO-Revision-Date: 2022-01-10 14:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: wcpdomain"
+
+#. Author of the plugin
+msgid "Ravi"
+msgstr ""
+
+#. Name of the plugin
+msgid "Test Plugin"
+msgstr ""
+
+#. Description of the plugin
+msgid "test plugin description"
+msgstr ""
+
+#: custom-plugin.php:44
+msgid "This Post has"
+msgstr ""
+
+#: custom-plugin.php:44
+msgid "words"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "www.repindia.com"
+msgstr ""

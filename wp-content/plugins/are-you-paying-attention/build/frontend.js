@@ -1,0 +1,1 @@
+!function(){"use strict";window.wp.element,window.React,window.ReactDOM,document.querySelectorAll(".paying-attention-update-me").forEach((function(e){e.classList.remove("paying-attention-update-me")}))}();
